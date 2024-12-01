@@ -1,0 +1,30 @@
+{
+    "greetings": [
+        "Hello!",
+        "Hi there!",
+        "Hey, how can I help?",
+        "Greetings!"
+    ],
+    "goodbyes": [
+        "Goodbye!",
+        "See you later!",
+        "Take care!",
+        "Bye!"
+    ],
+    "keywords": [
+        "weather",
+        "name",
+        "time",
+        "joke",
+        "help",
+        "python"
+    ],
+    "responses": [
+        "The weather is looking great today!",
+        "I don't have a name yet, but you can call me Chatbot.",
+        "I'm not a clock, but it's time to chat!",
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "I'm here to assist. What do you need help with?",
+        "Python is a great programming language. Are you learning it?",
+    ]
+}
